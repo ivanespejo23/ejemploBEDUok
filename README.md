@@ -1,2 +1,1 @@
-# ejemploBEDUok
-# 1st edition (commit)
+# Rama para el desarrollo del código
