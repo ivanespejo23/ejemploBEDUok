@@ -1,2 +1,1 @@
-# ejemploBEDUok
-# 1st edition (commit)
+# Actividad final del Open 1
