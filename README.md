@@ -1,2 +1,1 @@
-# ejemploBEDUok
-# Edición sobre rama testing
+# Rama para almacenar el código
