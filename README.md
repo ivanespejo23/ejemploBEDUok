@@ -1,2 +1,1 @@
-# ejemploBEDUok
-# Edición sobre production
+# Rama con las mismas funciones que main
